@@ -17,3 +17,9 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var cats = 44;
+var row = 6;
+var quantity = cats/row;
+console.log(quantity);
+Math.ceil
